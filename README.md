@@ -1,10 +1,9 @@
-# Digital Innovation One
+# Digital Innovation One 💾
 
 Código criado para utilização junto a plataforma da Digital Innovation One
 
 Resultado do Desafio - Junior 
 
-<p align="center"><img src="./DIO.png" width="500"></p>
 
 ## Desafio GCP Dataproc
 
